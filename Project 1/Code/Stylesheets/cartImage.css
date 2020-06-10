@@ -1,0 +1,6 @@
+.cartImage {
+    position: absolute;
+    left: 1700px;
+    top: 200px;
+    z-index: -1;
+}

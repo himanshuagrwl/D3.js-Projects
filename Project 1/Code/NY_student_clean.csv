@@ -1,0 +1,427 @@
+Gender,Ageyears,Handed,Height_cm,Travel_time_to_School,Score_in_memory_game,Birth_month,Sleep_Hours_Schoolnight,Home_Occupants,Doing_Homework_Hours,Outdoor_Activities_Hours,Video_Games_Hours,Social_Websites_Hours,Computer_Use_Hours,Watching_TV_Hours,Favorite_School_Subject
+Female,17,Right-Handed,163,3,48,December,7,7,18,2.5,12,6,24,0,Music
+Male,17,Right-Handed,172,60,59,March,7,4,18,2.5,12,6,24,0,Science
+Male,17,Left-Handed,173,15,64,December,1,10,14,0,0,10,30,24,Social studies
+Male,17,Right-Handed,196,25,66,May,7,10,14,0,0,10,30,24,Social studies
+Female,18,Right-Handed,157,7,83,October,7,3,14,0,0,10,30,24,Social studies
+Male,17,Right-Handed,196,25,34,December,6,4,5,15,20,10,10,15,History
+Male,17,Right-Handed,167,5,41,June,8,2,2,5,4,10,10,3,Physical education
+Female,16,Right-Handed,165,45,58,May,6,2,15,3,2,6,8,2,Mathematics and statistics
+Male,17,Right-Handed,160,70,46,May,6,3,15,3,2,6,8,2,Mathematics and statistics
+Female,17,Right-Handed,171,45,53,September,4,5,20,4,0,15,20,0,Social studies
+Male,17,Right-Handed,150,30,40,May,7,5,14,10,1,35,0,1,History
+Male,17,Right-Handed,180,40,37,March,7,11,14,10,1,35,0,1,History
+Male,17,Left-Handed,182,10,48,April,6,4,4,10,7,9,5,6,Mathematics and statistics
+Female,18,Right-Handed,168,30,36,September,7,2,19,4,0,21,24,9,English
+Male,17,Right-Handed,175,30,40,May,9,2,20,5,0,30,15,20,Mathematics and statistics
+Female,17,Right-Handed,185,14,44,July,9,4,20,5,0,30,15,20,Mathematics and statistics
+Male,17,Right-Handed,180,15,33,April,6,5,20,2,9,0,11,0,Mathematics and statistics
+Male,17,Right-Handed,175,6,39,May,6,4,6,7,5,2,20,5,Geography
+Male,18,Ambidextrous,160,7,40,May,8,4,5,0,35,5,4,3,Mathematics and statistics
+Male,25,Right-Handed,173,25,43,October,8,5,5,0,35,5,4,3,Mathematics and statistics
+Male,17,Right-Handed,173,10,54,January,7,4,10,5,7,5,7,6,History
+Male,17,Left-Handed,170,35,42,February,6,4,10,8,0,5,15,0,Art
+Female,18,Right-Handed,168.5,30,36,February,5,5,6,3,0,6,30,5,Mathematics and statistics
+Male,16,Right-Handed,177,30,45,May,7,4,10,0,3,13,30,2,English
+Female,17,Right-Handed,163,15,45,May,6,5,8,0,3,13,30,2,Art
+Male,18,Right-Handed,184,40,54,February,7,4,0,21,12,8,10,10,Computers and technology
+Male,17,Right-Handed,166.5,7,43,May,7,4,7,3,1,8,1,1,Physical education
+Male,16,Right-Handed,171,2,43,November,7,8,7,3,1,8,1,1,Physical education
+Male,17,Right-Handed,193,25,32,June,6.5,4,15,5,10,10,25,0,Music
+Female,18,Right-Handed,190,54,73,August,5,9,1,0,0,15,90,20,Music
+Female,17,Right-Handed,158,15,70,January,5,5,3,5,15,30,45,3,Physical education
+Male,17,Left-Handed,183,65,47,September,5,7,2,2,1,8,0,20,English
+Male,17,Right-Handed,180,5,35,May,7,7,15,12,5,14,30,21,Science
+Female,17,Right-Handed,175,12,44,October,7,4,15,12,5,14,30,21,Science
+Male,17,Right-Handed,160,28,53,July,7,4,21,24,0,0,14,10,Science
+Female,17,Right-Handed,167,5,38,March,7,5,5,10,0,10,4,2,History
+Male,17,Right-Handed,187,5,72,July,1,5,8,3,4,4,3,2,Science
+Male,18,Right-Handed,179,15,49,December,7,3,2,0,1,20,20,3,History
+Male,17,Left-Handed,168,90,47,May,5,4,1,0,4,5,7,1,Physical education
+Male,17,Right-Handed,176,30,27,May,3,5,1,0,0,20,10,10,Computers and technology
+Female,16,Right-Handed,157,15,58,November,6,5,5,1,0,1,1,6,Music
+Female,17,Right-Handed,164,12,38,May,7,4,7,12,1,10,16,7,Science
+Male,16,Right-Handed,171,2,43,November,7,8,0,0,0,10,8,4,Physical education
+Male,18,Right-Handed,168,45,40,May,8,8,0,0,0,10,8,4,Physical education
+Female,17,Right-Handed,160,35,45,October,8,5,0,0,0,10,8,4,Physical education
+Male,17,Right-Handed,170,85,29,July,5.5,2,8,5.5,3,21,50,0,Languages
+Female,18,Right-Handed,155,15,57,August,6,5,3,1,0,30,40,10,Mathematics and statistics
+Female,16,Right-Handed,170,15,43,March,7,4,6,30,12,20,20,2,History
+Female,21,Right-Handed,170,18,32,May,7,5,6,30,12,20,20,2,Mathematics and statistics
+Female,15,Left-Handed,155,25,40,September,1,2,40,0,0,0,0,1,Art
+Female,17,Right-Handed,175.3,5,30,March,7,5,15,2,0,5,10,1,Languages
+Male,15,Right-Handed,160,30,40,December,8,4,15,0,3,10,50,5,Science
+Male,17,Left-Handed,166,50,40,May,6,4,6,5,14,20,30,0,Mathematics and statistics
+Male,20,Right-Handed,167.6,19,40,October,7,6,15,21,2,10,20,2,Physical education
+Male,17,Right-Handed,187,48,2,August,5,4,10,7,0,2,5,2,Computers and technology
+Male,17,Right-Handed,178,25,48,March,6,3,10,7,6,2,10,2,Computers and technology
+Female,16,Right-Handed,171,15,27,June,7,4,12,21,2,3,56,1,Mathematics and statistics
+Male,18,Left-Handed,181,7,47,May,7,2,4,14,5,7,20,10,Geography
+Female,17,Left-Handed,152,10,50,May,7,3,7,12,2,4,15,10,Science
+Female,17,Right-Handed,173,10,38,March,7,5,20,21,0,24,6,10,Music
+Female,17,Right-Handed,150,12,43,April,6,3,40,10,2,15,10,10,Social studies
+Female,16,Right-Handed,160,40,37,February,7,3,15,15,0,15,50,10,Mathematics and statistics
+Female,16,Right-Handed,172,7,35,October,6.5,4,10,12,0,4,12,6,Physical education
+Female,17,Right-Handed,161.5,4,56,January,8,3,4,0,0,10,12,30,Other
+Female,17,Left-Handed,157.5,75,38,February,4,2,2,2,0,16,30,4,Mathematics and statistics
+Female,17,Right-Handed,159,60,62,June,6,4,20,2,0,8,6,4,Art
+Male,17,Right-Handed,179.8,30,30,March,8,4,1,0,5,5,5,0,History
+Female,18,Right-Handed,159,40,53,May,6,4,17,4,9,8,28,12,English
+Male,17,Right-Handed,179,20,46,June,6,4,37,25,3,50,4,20,Science
+Female,17,Right-Handed,152,30,40,May,6,4,37,25,3,50,4,20,Science
+Male,17,Right-Handed,185,40,61,May,6,5,37,25,3,50,4,20,Science
+Female,17,Right-Handed,154.9,7,46,May,7,5,37,25,3,50,4,20,Science
+Male,17,Right-Handed,171,25,56,July,7,8,37,25,3,50,4,20,English
+Female,16,Right-Handed,169,15,49,September,6,4,30,0,0,2,10,10,English
+Male,17,Right-Handed,175,30,53,May,3,5,0,20,30,40,30,0,History
+Male,17,Left-Handed,180,45,38,February,6,4,10,0,2,5,9,0,Physical education
+Female,17,Right-Handed,168,60,48,September,8,2,0.5,4,0,0,5,10,English
+Female,16,Right-Handed,155,10,33,November,9,4,8,3,4,8,12,2,History
+Female,17,Right-Handed,160,3,39,June,4.5,4,8,3,4,8,12,2,Science
+Female,18,Right-Handed,160,50,65,March,7,2,0,0,0,2,2,1,Computers and technology
+Female,17,Right-Handed,172,45,46,July,7,8,0,0,0,2,2,1,Mathematics and statistics
+Female,16,Right-Handed,157.5,30,47,October,7,4,22,11,1,14,27,4,History
+Female,17,Right-Handed,167,50,40,February,7,3,3,5,3,8,7,5,Science
+Male,16,Right-Handed,178,20,40,November,6,5,10,20,4,4,4,0,English
+Male,17,Right-Handed,180,5,49,May,6,5,20,20,0,20,1,5,Science
+Female,16,Right-Handed,160,30,41,May,6,4,20,20,0,20,1,5,Science
+Female,17,Right-Handed,163,10,38,September,6,4,12,20,0,20,1,5,Science
+Male,17,Right-Handed,178,50,36,September,6,5,3,5,6,7,8,9,Science
+Female,17,Right-Handed,172,30,40,May,7,5,17.5,2,0,4,35,4,Art
+Female,18,Ambidextrous,163,50,56,September,7,3,17.5,2,0,4,35,4,Science
+Female,17,Right-Handed,165,45,36,December,6,4,5,2,5,12,85,2,Science
+Female,18,Right-Handed,154,15,41,February,7,4,10,10,0,22,10,10,Science
+Female,17,Right-Handed,160,12,41,August,7,4,25,15,0,6,10,3,Mathematics and statistics
+Female,17,Right-Handed,147,13,61,April,7,4,8,9,6,8,4,4,Physical education
+Male,17,Right-Handed,181,40,41,November,7,5,20,15,4,10,15,5,Mathematics and statistics
+Female,18,Right-Handed,177.8,12,58,April,8,6,2,30,1,24,55,5,Science
+Female,17,Right-Handed,162.5,5,33,September,7.5,5,10,0,14,30,60,5,History
+Male,17,Right-Handed,180,5,49,April,7,3,1,5,0,4,4,3,History
+Female,17,Right-Handed,161,40,76,July,6,2,8,0.5,0,40,50,3,English
+Male,17,Right-Handed,177.8,6,55,November,6,4,18,1,0,15,15,5,Mathematics and statistics
+Female,18,Right-Handed,165,7,40,October,7,5,18,1,0,15,15,5,History
+Male,18,Right-Handed,164,30,40,May,5,5,18,1,0,15,15,5,History
+Female,17,Right-Handed,175,25,38,July,5,4,18,1,0,15,15,5,Science
+Female,17,Right-Handed,164,50,42,July,6,4,15,2,5,14,17,22,English
+Female,17,Right-Handed,157,40,40,August,6,6,14,10,6,28,14,2,English
+Female,17,Right-Handed,155,10,35,February,8,3,14,10,6,28,14,2,Mathematics and statistics
+Male,17,Right-Handed,165,30,80,October,7,5,4,3,15,20,20,0,English
+Female,17,Right-Handed,173,70,79,February,7,4,2,0,6,5,10,3,Science
+Male,17,Ambidextrous,180,55,47,August,6,4,10,30,10,5,25,8,Physical education
+Male,17,Right-Handed,182.8,15,31,January,7,2,21,6,14,20,30,0,English
+Male,18,Right-Handed,190.5,45,64,July,4,3,0,2,3,8,8,2,Physical education
+Female,17,Right-Handed,154,25,55,August,8,5,10,3,0,15,20,0,Mathematics and statistics
+Female,17,Left-Handed,152,10,50,May,7,3,7,12,2,4,15,10,English
+Male,16,Right-Handed,175.2,60,50,November,5,3,7,3,6,0,0,9,Social studies
+Female,17,Right-Handed,157.5,5,45,January,5,5,7,10,7,1,4,10,Science
+Male,17,Left-Handed,186,30,40,January,4,7,4,22,5,8,13,7,Computers and technology
+Female,17,Right-Handed,170,10,35,May,9,7,7,4,3,14,2,5,Art
+Male,17,Ambidextrous,181,10,40,October,9,5,7,4,3,14,2,5,Mathematics and statistics
+Female,17,Right-Handed,160,50,47,August,8,4,0,6,8,6,10,5,Physical education
+Male,15,Right-Handed,176,10,54,November,5,2,7,6,6,8,7,1,Physical education
+Male,18,Right-Handed,187,35,37,May,7,3,0,10,24,2,24,0,English
+Female,17,Right-Handed,162,40,46,June,8,3,8,12,3,8,9,1,Science
+Male,18,Left-Handed,173,40,71,April,8,6,8,12,3,8,9,1,Physical education
+Female,17,Right-Handed,157,55,63,September,6,8,37,1,1,1,50,6,Mathematics and statistics
+Male,17,Right-Handed,175,60,50,June,6,8,7,7,10,4,30,0,Science
+Female,16,Right-Handed,167,15,37,November,6,3,15,0,0,40,3,9,Music
+Female,16,Right-Handed,164,5,43,November,6,8,3,1,1,16,35,7,Mathematics and statistics
+Female,17,Right-Handed,157,30,48,July,7,4,6,0,5,10,12,1,Science
+Male,18,Right-Handed,186,20,58,June,7,4,30,0,0,0,40,0,Mathematics and statistics
+Female,17,Right-Handed,157,10,50,May,9,4,10,0,10,10,100,10,Mathematics and statistics
+Female,17,Left-Handed,180.3,30,49,September,7,3,10,23,0,10,10,20,Art
+Female,18,Right-Handed,160,20,42,April,7,4,14,5,0,24,5,4,Mathematics and statistics
+Male,18,Right-Handed,167,45,42,October,8,4,10,24,0,2,30,0,Art
+Female,18,Right-Handed,159,60,64,May,6,3,0,0,0,40,6,15,Science
+Female,17,Right-Handed,162,75,36,August,5,5,5,8,2,10,10,0,Science
+Female,16,Right-Handed,162.5,50,42,July,5,4,9,9,0,7,30,5,Social studies
+Female,26,Right-Handed,161,30,64,September,7,2,2,5,0,0,15,0,English
+Male,17,Right-Handed,177.8,6,55,November,6,4,15,10,2,4,20,0,Social studies
+Male,17,Ambidextrous,160,10,49,October,9,4,30,5,0,7,2,5,History
+Female,17,Right-Handed,172,45,40,December,8,4,30,5,0,7,10,0,Mathematics and statistics
+Male,17,Right-Handed,167,25,46,June,8,3,6,3,8,5,6,5,History
+Female,17,Right-Handed,164,17,51,April,8,3,15,15,0,10,12,5,Physical education
+Male,16,Right-Handed,174,56,50,August,8,3,7,26,4,14,5,5,Science
+Female,16,Right-Handed,168,7,39,November,6,5,14,0,0,35,42,3,Physical education
+Female,17,Right-Handed,160,30,40,May,7,5,8,2,0,50,50,10,Art
+Female,17,Right-Handed,163,3,48,December,7,7,7,0,0,6,6,2,Physical education
+Male,17,Right-Handed,176,58,60,September,6,4,14,22,40,5,40,0,Science
+Male,17,Right-Handed,175,30,44,April,8,4,10,15,8,15,4,2,Music
+Male,17,Right-Handed,159,30,65,April,6,5,10,10,30,10,100,10,Music
+Female,19,Right-Handed,152,10,7,January,7,4,1,0,0,9,7,4,Mathematics and statistics
+Female,17,Right-Handed,154.9,4,53,March,7,3,2,15,0,10,10,2,Physical education
+Female,17,Right-Handed,157,3,48,August,8,3,5,10,2,8,2,2,Other
+Female,17,Right-Handed,172,40,40,May,6,4,30,20,15,5,20,3,Social studies
+Female,24,Right-Handed,160,20,39,December,5,4,5,0,0,2,4,7,History
+Male,17,Right-Handed,187,35,49,October,8,3,5,5,4,10,10,10,Mathematics and statistics
+Male,17,Right-Handed,175,10,50,January,8,2,20,1,16,8,12,4,Computers and technology
+Male,18,Right-Handed,163,40,20,February,5,4,20,1,16,8,12,4,Mathematics and statistics
+Male,17,Left-Handed,179,50,40,April,5,2,30,5,1,15,40,10,Mathematics and statistics
+Female,18,Right-Handed,168,30,36,September,7,2,19,5,0,7,21,0,History
+Female,15,Right-Handed,155,7,41,November,9,4,28,11,0,7,21,0,History
+Female,17,Right-Handed,152,35,72,October,5,4,37,0,0,15,52,15,Mathematics and statistics
+Male,18,Right-Handed,169,90,12,January,8,4,2,1,0,3,4,0,English
+Female,18,Right-Handed,157,50,56,November,6,4,12,3,6,28,12,16,Music
+Female,17,Right-Handed,170,45,44,May,5.5,4,10,0,2,10,24,1,Other
+Male,17,Right-Handed,170,20,45,June,6.5,4,24,10,30,3,45,2,Social studies
+Male,18,Right-Handed,170,10,29,May,8,4,5,1,1,2,1,1,Mathematics and statistics
+Female,17,Ambidextrous,167.6,9,40,June,8,5,5,1,1,2,1,1,Art
+Male,21,Right-Handed,175,22,30,March,8,6,35,0,2,1,5,0,Mathematics and statistics
+Male,17,Right-Handed,180.4,4,61,May,8,5,2,6,1,12,2,1,History
+Female,18,Right-Handed,165,50,56,January,8,3,10,0,0,5,4,5,History
+Female,18,Right-Handed,146,30,42,September,6,2,7,1,10,10,15,6,Computers and technology
+Female,16,Right-Handed,163,75,40,July,4,2,16,7,1,16,51,9,Social studies
+Female,17,Right-Handed,162.6,5,80,May,7,3,3,0,1,10,100,10,History
+Female,18,Right-Handed,160,80,28,December,6,3,3,0,1,10,100,10,Art
+Male,17,Right-Handed,177.8,75,1,May,6,3,10,3,4,7,30,10,English
+Female,16,Right-Handed,164,5,34,May,6,3,10,3,4,7,30,10,Art
+Male,23,Right-Handed,173,5,55,August,6,3,10,3,4,7,30,10,Mathematics and statistics
+Female,17,Right-Handed,155,70,37,June,4,3,15,12,0,10,5,2,Computers and technology
+Female,17,Right-Handed,163,8,91,March,7,4,1,15,0,21,21,4,Computers and technology
+Male,20,Left-Handed,154,80,40,October,6,2,0,0,0,24,12,24,Computers and technology
+Female,17,Left-Handed,172.7,42,71,April,6,3,0,0,24,24,24,24,Social studies
+Female,17,Right-Handed,158,30,35,September,5,3,5,8,6,2,1,11,Art
+Female,17,Right-Handed,165,3,40,January,6,4,10,20,0,40,10,5,Social studies
+Male,17,Right-Handed,177,12,37,June,5,4,2,6,6,1,45,0,Physical education
+Female,17,Right-Handed,160,20,40,March,8,2,10,16,0,24,24,22,Music
+Female,17,Right-Handed,152,40,40,August,7,3,6,4,1,13,9,12,History
+Female,19,Right-Handed,157,20,39,January,8,5,6,3,5,7,12,0,Computers and technology
+Female,17,Right-Handed,168,20,35,August,8,2,20,0,0,10,30,5,English
+Female,17,Right-Handed,165,30,40,May,5,2,5,5,0,3,35,2,Computers and technology
+Male,18,Right-Handed,165,25,35,December,5,3,5,5,0,3,35,2,Science
+Female,17,Right-Handed,160,40,48,July,5,7,7,2,4,4,24,1,Art
+Female,17,Right-Handed,155,10,49,May,6,7,10,2,2,15,4,4,Social studies
+Female,21,Left-Handed,152,18,36,December,7,6,4,17,7,14,7,3,Social studies
+Male,18,Right-Handed,177,30,40,February,6,4,10,12,0,8,3,18,History
+Female,17,Right-Handed,154.9,7,46,August,6,5,10,12,0,8,3,18,Science
+Male,18,Right-Handed,190,45,36,May,8,5,1,0,1,12,42,4,Art
+Female,17,Right-Handed,174,10,41,August,8,3,1,0,1,12,42,4,Languages
+Male,17,Left-Handed,175,10,41,February,8,5,5,24,2,28,12,8,Science
+Female,18,Right-Handed,171,75,70,June,7.5,5,12,0,2,35,23,25,Music
+Female,21,Right-Handed,170,25,43,February,9,5,15,0,0,7,5,30,Music
+Female,18,Right-Handed,154.5,40,83,May,4,6,8,1,0,10,12,0,Mathematics and statistics
+Male,17,Left-Handed,177.8,8,42,March,8,4,14,14,0,27,0.5,10,History
+Female,17,Right-Handed,163,60,53,March,6,4,1,0,0,7,7,2,Mathematics and statistics
+Female,18,Right-Handed,164,30,56,February,6,4,0,0,0,0,0,0,Mathematics and statistics
+Female,18,Left-Handed,158,35,33,July,8,3,1,1,2,15,20,2,Science
+Female,18,Right-Handed,158,30,51,December,6,4,2,0,0,3,4,2,English
+Male,22,Right-Handed,194,18,36,December,7,4,12,0,10,4,20,0,Physical education
+Male,17,Right-Handed,187,45,48,December,6,4,25,0,20,15,30,8,Science
+Male,17,Right-Handed,190,5,28,November,7,4,10,12,4,5,10,5,Languages
+Male,18,Right-Handed,170,90,41,December,6,4,21,4,3,21,54,3,Computers and technology
+Male,18,Left-Handed,173,40,71,April,8,6,8,12,3,8,9,1,Art
+Female,17,Right-Handed,161,10,50,July,6,7,15,7.5,0,30,10,10,Mathematics and statistics
+Male,17,Right-Handed,173,30,40,May,4,7,15,0,33,1,7,0,Science
+Female,18,Right-Handed,161,20,53,August,4,4,15,0,33,1,7,0,Science
+Female,16,Ambidextrous,164,65,23,February,4,7,15,0,33,1,7,0,Science
+Female,17,Right-Handed,160,5,41,April,8,4,3,5,12,12,5,15,Science
+Female,18,Right-Handed,163,25,46,July,7,6,3,0,0,20,10,10,Science
+Female,16,Right-Handed,164,45,63,April,6,2,1,1,2,20,36,3,Science
+Female,17,Right-Handed,162,10,43,March,8,5,3,5,0,2,5,0,Mathematics and statistics
+Female,17,Right-Handed,157,40,53,May,3,6,14,20,0,20,100,0,Mathematics and statistics
+Male,17,Right-Handed,160,80,44,December,5,4,10,12,20,70,60,5,Science
+Female,17,Left-Handed,182,5,41,August,6,4,2,12,4,7,40,2,Mathematics and statistics
+Female,17,Right-Handed,164,10,47,May,8,4,20,2,0,15,0,6,History
+Female,18,Left-Handed,158,45,42,April,6,5,20,3,0,60,100,3,History
+Male,18,Right-Handed,182,25,35,April,6,4,10,15,0.5,10,10,2,Physical education
+Male,18,Right-Handed,167,45,42,October,8,4,10,25,0,2,30,0,Music
+Female,20,Right-Handed,155,18,36,April,7,4,6,1,1,10,15,10,History
+Female,17,Right-Handed,160,34,39,December,6,4,10,0,1,30,40,30,History
+Male,17,Left-Handed,182.8,30,40,December,7,4,2,12,3,10,9,4,Mathematics and statistics
+Female,17,Left-Handed,160,30,46,December,8,4,10,3,0,4,1,2,English
+Female,20,Right-Handed,157,22,46,June,6,8,16,0,10,20,35,2,English
+Male,17,Left-Handed,172,20,44,July,8,4,3,6,8,3,3,2,Social studies
+Male,17,Right-Handed,180,5,35,February,8,3,20,5,0,10,5,5,Mathematics and statistics
+Female,18,Left-Handed,164,20,39,March,6.5,3,5,2,41,35,5,8,Mathematics and statistics
+Female,17,Right-Handed,165,60,65,August,8,8,1,0,0,6,3,4,English
+Female,16,Right-Handed,159,30,35,May,8,4,10,10,0,3,2,1,English
+Female,17,Left-Handed,166,20,41,April,8,4,5,1,0,8,15,10,Computers and technology
+Female,19,Right-Handed,152.4,45,51,September,7,4,2,1,0,10,3,3,Mathematics and statistics
+Female,17,Left-Handed,160,15,40,April,8,3,21,18,1,21,70,2,Mathematics and statistics
+Male,24,Right-Handed,191,15,35,July,7,4,6,0,4,25,60,30,Languages
+Female,16,Right-Handed,158.7,20,39,November,6.5,3,25,4,2,5,30,0,Science
+Female,17,Right-Handed,163.5,34,53,July,7,2,15,7,0,1,10,6,History
+Male,17,Right-Handed,175,45,45,August,7,4,10,1,2,3,15,5,Mathematics and statistics
+Male,18,Right-Handed,168,60,50,April,6,4,2,0,2,2,2,0,Art
+Male,17,Right-Handed,177.8,4,51,May,7,4,7,0,1,17,17,19,English
+Female,18,Right-Handed,163,22,66,January,8,3,7,0,1,17,17,19,Music
+Male,18,Right-Handed,191,45,58,May,6,3,21,0,0,21,84,15,Mathematics and statistics
+Female,17,Right-Handed,165,15,50,January,6,5,21,0,0,21,84,15,Social studies
+Male,16,Left-Handed,184,40,38,December,7,6,9,9,9,9,9,9,Social studies
+Male,15,Right-Handed,166.3,60,54,November,6,4,1,23,7,45,1,23,Social studies
+Male,17,Left-Handed,175,30,44,April,8,4,5,8,21,7,10,8,Computers and technology
+Male,22,Left-Handed,190,15,27,March,8,3,2,0,20,0,30,0,Physical education
+Female,17,Right-Handed,173,8,52,November,7,5,12,15,4,6,10,0,Science
+Male,17,Right-Handed,182.9,45,50,October,4,5,4,2,1,5,15,2,Art
+Female,16,Left-Handed,162.5,15,49,June,5,3,4,2,1,5,15,2,Art
+Female,17,Right-Handed,165,7,40,June,6,4,4,2,1,5,15,2,Physical education
+Female,17,Right-Handed,170,13,49,March,9,5,2,0,0,12,14,1,Mathematics and statistics
+Female,16,Right-Handed,160,15,53,May,5,5,12,10,0,14,20,7,Physical education
+Female,17,Right-Handed,165,7,45,June,5,4,12,10,0,14,20,7,Computers and technology
+Male,17,Right-Handed,177,40,61,July,3,4,1,1,3,2,2,2,Art
+Female,17,Right-Handed,168,60,59,October,6,4,15,3,10,15,16,15,Physical education
+Female,17,Right-Handed,160,7,37,September,8.5,3,15,3,1,5,7,4,History
+Female,16,Right-Handed,165,45,58,July,7,4,4,5,5,6,25,3,Music
+Female,17,Right-Handed,167,32,44,June,7,4,20,10,0,15,35,5,Art
+Male,17,Right-Handed,176,30,27,May,3,5,1,0,0,20,10,10,Mathematics and statistics
+Female,17,Left-Handed,165,4,39,May,8,4,3,12,0,20,1,0,Mathematics and statistics
+Male,17,Right-Handed,181,35,41,August,6,6,1,3,20,20,10,20,Physical education
+Female,17,Right-Handed,160,15,39,October,7,5,15,15,0,18,36,0,English
+Female,15,Left-Handed,162.5,60,69,September,6,5,14,4,0,20,30,3,History
+Male,17,Right-Handed,173,30,40,September,7,2,8,14,2,12,12,1,Art
+Female,17,Right-Handed,173,10,73,March,6,5,1,0,0,6,6,2,History
+Female,17,Right-Handed,159.4,8,45,February,7,3,6,19,9,10,100,24,Computers and technology
+Female,17,Right-Handed,160,15,38,June,7,5,25,4.5,0,4,48,8,Physical education
+Female,17,Right-Handed,159,10,37,May,7,4,10,10,0,33,30,13,Mathematics and statistics
+Female,27,Right-Handed,157,45,34,October,6,2,4,1,6,4,6,9,Social studies
+Male,17,Right-Handed,169,20,54,June,5,4,20,0.5,5,20,25,0,English
+Male,17,Right-Handed,186,2,45,December,7,6,7,12,14,18,30,2,Music
+Male,16,Right-Handed,180,5,3,November,7,4,8,8,8,8,8,8,Science
+Male,17,Right-Handed,177,45,37,August,7,3,2,7,1,5,1,2,Languages
+Female,16,Right-Handed,161,30,61,September,6,3,24,0,0,15,20,8,Science
+Female,16,Ambidextrous,160,10,40,May,7,3,5,3,4,1,2,3,Science
+Male,18,Left-Handed,183,20,52,August,7,4,5,3,4,1,2,3,English
+Male,26,Right-Handed,182,43,57,November,5.5,2,12,2,3,1,26,8,Mathematics and statistics
+Male,18,Right-Handed,173,27,56,January,5,4,2,4,20,5,20,0,Science
+Female,17,Right-Handed,160,13,38,November,6,4,16,5,2,18,8,2,Physical education
+Female,17,Right-Handed,152,12,40,September,7,3,10,18,0,3,7,0,Languages
+Female,18,Right-Handed,160,48,56,April,5,3,12,0,0,10,63,10,History
+Female,17,Right-Handed,169,5,29,April,5,3,40,0,0,6,16,5,Languages
+Female,16,Right-Handed,158,15,33,August,4.5,5,30,6,2,7,5,7,Science
+Female,16,Right-Handed,164,5,34,November,6,2,18,20,0,4,4,0,Science
+Female,17,Right-Handed,170,10,44,June,8,5,20,15,15,15,15,4,Mathematics and statistics
+Female,17,Right-Handed,163,12,35,April,8,4,15,0,0,3,4,1,Computers and technology
+Female,17,Right-Handed,166,45,35,November,6,5,5,5,0,7,10,10,Mathematics and statistics
+Male,17,Right-Handed,162.5,70,52,July,6.5,4,3,21,12,13,11,17,Physical education
+Male,18,Right-Handed,178,15,57,November,8,3,6,2,8,10,30,12,Art
+Female,17,Right-Handed,164,5,51,May,7,3,10,4,1,6,8,0,Languages
+Male,18,Right-Handed,164,30,60,May,7,4,10,4,1,6,8,0,Music
+Female,16,Right-Handed,160,40,37,December,7,4,40,2,21,15,100,14,Music
+Female,18,Right-Handed,150,45,52,November,9,4,0,0,0,24,0,0,Art
+Female,16,Right-Handed,167,14,72,May,7,4,0,3,2,2,24,0,Science
+Male,17,Right-Handed,170,45,39,November,7,4,0,3,2,2,24,0,Science
+Female,16,Ambidextrous,160,10,38,May,6,4,7,15,0,5,12,3,English
+Female,18,Right-Handed,152.4,2,53,March,6,4,7,15,0,5,12,3,Physical education
+Male,16,Right-Handed,160,12,43,January,7,4,10,16,6,12,2,4,Social studies
+Female,18,Right-Handed,160,45,57,January,7,3,2,1,1,1,1,2,Mathematics and statistics
+Male,19,Right-Handed,181.4,25,64,January,6,3,10,20,1,10,2,10,Mathematics and statistics
+Male,17,Right-Handed,171.4,7,43,January,6,4,10,20,1,10,2,10,Mathematics and statistics
+Female,17,Right-Handed,161,25,38,July,5,2,25,1,0,50,33,2,Other
+Male,17,Right-Handed,196,25,66,May,4,2,44,14,2,4,50,0,Physical education
+Female,16,Ambidextrous,160,10,38,November,4,5,44,14,2,4,50,0,Physical education
+Female,17,Right-Handed,162,12,50,May,8,5,1,0,0,6,6,0,English
+Female,17,Right-Handed,164,60,46,December,8,8,1,0,0,6,6,0,English
+Female,17,Left-Handed,162,60,52,December,8,5,12,0,0,12,5,4,Mathematics and statistics
+Male,17,Right-Handed,177,40,41,February,6,7,1,0,0,0,1,12,Mathematics and statistics
+Male,17,Right-Handed,185.4,10,58,June,7.5,5,10,4,0,8,20,5,Mathematics and statistics
+Male,17,Right-Handed,177.8,4,51,May,7,4,4,10,3,8,3,1,History
+Female,16,Right-Handed,173.7,17,38,August,7,4,8,4,0,5,20,2,History
+Male,16,Right-Handed,165,25,50,June,6,5,1,3,5,2,4,1,Art
+Male,17,Right-Handed,179.8,30,30,March,8,4,2,1,5,2,5,0,Art
+Female,17,Right-Handed,167.5,6,41,February,6,3,30,0,2,7,50,10,Physical education
+Female,18,Right-Handed,166,44,48,April,6,5,1,1,0,5,3,10,Mathematics and statistics
+Male,17,Right-Handed,190,15,34,December,4,4,7,7,30,20,20,0,Mathematics and statistics
+Female,17,Right-Handed,166.5,7,43,June,8,6,15,13,0,20,2,0,Languages
+Male,17,Right-Handed,168,45,36,December,7,5,21,10,5,3,25,1,Other
+Male,17,Right-Handed,166,60,35,August,5.5,4,9,0,3,1,64,0,Art
+Male,18,Right-Handed,190,42,74,June,8,5,2,2,2,2,2,2,Physical education
+Male,20,Left-Handed,182,60,48,May,7,5,3,14,4,15,15,0,Art
+Female,17,Right-Handed,167.6,6,36,June,7,4,3,14,4,15,15,0,History
+Male,17,Right-Handed,187,5,72,July,1,5,8,3,4,4,3,2,History
+Male,16,Ambidextrous,175,40,33,May,5,5,2,20,8,10,12,6,Music
+Male,17,Right-Handed,160,50,36,February,6,6,21,10,10,0,20,0,Science
+Female,17,Right-Handed,160,40,47,December,6,5,5,5,5,20,35,20,Computers and technology
+Male,17,Right-Handed,194,70,49,December,7,6,10,6,0,6,10,10,Art
+Male,18,Right-Handed,174,30,57,March,5,5,12,1,5,20,25,4,Science
+Male,18,Right-Handed,170,10,29,May,6,3,2,7,1,3,2,7,Mathematics and statistics
+Female,17,Right-Handed,163,6,53,September,7,3,8,12,1,10,5,10,Science
+Female,17,Right-Handed,165.1,65,54,February,6,4,20,1,0,5,20,8,Mathematics and statistics
+Female,17,Right-Handed,161,15,50,July,7,5,10,10,0,5,5,7,Mathematics and statistics
+Male,18,Right-Handed,168,30,81,May,6,4,3,0,2,1,1,0,Science
+Male,17,Right-Handed,176,45,35.3,May,7.5,4,5,0,0,20,1,6,Physical education
+Female,17,Right-Handed,167,6,45,February,7.5,3,5,0,0,20,1,6,History
+Male,18,Right-Handed,189,20,53,January,6,5,0,0,0,0,0,0,Mathematics and statistics
+Female,17,Right-Handed,167,15,54,May,5,4,7,1,1,50,5,15,Social studies
+Female,17,Right-Handed,160,50,39,August,7,11,2,2,9,4,50,0,Mathematics and statistics
+Female,20,Right-Handed,160,35,45,October,6,6,8,2,0,6,15,3,History
+Male,16,Right-Handed,182.9,7,71,November,5,5,7,0,10,20,30,20,History
+Female,17,Right-Handed,165,7,45,June,5,4,17,12,0,4,24,3,Science
+Female,17,Left-Handed,179.8,25,37,July,6.5,4,17,12,0,4,24,3,Science
+Female,17,Right-Handed,160,10,47,March,7,4,15,0,0,0.25,7,2,Science
+Male,17,Right-Handed,160,17,54,August,6,3,20,15,0,10,40,0,Social studies
+Male,17,Right-Handed,180,5,35,May,7.5,3,40,18,0,5,1,5,Social studies
+Male,17,Right-Handed,175,2,42,September,7.5,4,40,18,0,5,1,5,English
+Male,17,Right-Handed,168,20,19,April,6,4,2,1,5,2,4,2,English
+Male,18,Right-Handed,155,7,44,October,6,9,2,0,0,1,3,0,English
+Male,18,Right-Handed,176,40,80,March,5,7,3,1,20,3,20,10,Mathematics and statistics
+Male,17,Right-Handed,186.5,40,53,August,4,4,32,0,25,10,70,0,Social studies
+Male,17,Right-Handed,160,20,53,April,7.5,3,15,15,1,7,5,2,English
+Female,16,Right-Handed,164,5,43,November,6,8,5,4,1,14,35,7,Mathematics and statistics
+Female,18,Right-Handed,165,43,17,October,8,3,5,3,2,3,3,1,Languages
+Female,17,Right-Handed,162.5,10,43,May,8,3,5,0,12,3,30,0,Mathematics and statistics
+Male,21,Right-Handed,177,20,38,October,8,4,5,0,12,3,30,0,Physical education
+Male,17,Right-Handed,178,20,55,November,6,4,8,3,15,7,5,15,Mathematics and statistics
+Female,17,Right-Handed,157,15,36,May,7,5,4,2,0,1,2,0,Mathematics and statistics
+Female,17,Right-Handed,160,35,60,April,7,4,5,6,0,14,10,6,Mathematics and statistics
+Female,17,Right-Handed,163,6,53,May,6,4,3,2,1,3,5,5,Mathematics and statistics
+Male,18,Right-Handed,193.4,15,44,November,6,3,3,2,1,3,5,5,English
+Male,17,Right-Handed,160,40,38,March,7,2,7,12,28,34,40,20,Mathematics and statistics
+Female,18,Right-Handed,167.6,18,44,March,7,3,4,0,0,30,75,3,Mathematics and statistics
+Male,18,Right-Handed,188,45,52,September,6,3,0,7,4,3,2,5,Other
+Female,17,Right-Handed,163,6,53,May,6,3,12,10,3,4,2,1,Other
+Male,17,Right-Handed,177,5,45,May,6,3,12,10,3,4,2,1,Mathematics and statistics
+Female,17,Right-Handed,163,12,47,December,6,5,12,10,3,4,2,1,Mathematics and statistics
+Female,19,Right-Handed,152,15,63,May,7,5,12,10,3,4,2,1,Science
+Male,17,Left-Handed,175,20,64,March,7,4,12,10,3,4,2,1,Computers and technology
+Female,17,Right-Handed,157,40,38,June,7,5,8,0,0.5,3,10,0.5,Computers and technology
+Female,17,Right-Handed,151,30,49,August,7,5,2,0,2,3,2,0,Computers and technology
+Female,18,Right-Handed,157,10,47,July,6,6,2,0,0,9,2,0,Physical education
+Male,18,Ambidextrous,160,7,40,January,5,3,18,12,0,20,50,15,Mathematics and statistics
+Female,17,Right-Handed,150,10,56,July,7,4,18,12,0,20,50,15,Science
+Female,16,Right-Handed,170.2,15,54,March,7,4,22,10,1,14,27,10,Music
+Female,17,Right-Handed,165.1,10,42,November,6,3,4,10,1,16,15,5,Music
+Female,18,Ambidextrous,163,50,56,September,7,3,17.5,2,0,4,35,4,Physical education
+Female,17,Right-Handed,163,60,58,December,6,5,5,0,0,5,6,0,History
+Female,17,Right-Handed,162.6,5,80,May,7,3,4,20,0,4,2,0.5,Physical education
+Male,17,Right-Handed,159,4,41,May,6,4,8,0,0,29,50,10,Mathematics and statistics
+Male,16,Right-Handed,174,20,43,September,4,3,24,0,0,1.5,21,0,Mathematics and statistics
+Female,18,Right-Handed,157,10,47,May,9,3,2,2,6,8,16,1,Mathematics and statistics
+Male,17,Right-Handed,177.8,15,44,April,9,2,2,2,6,8,16,1,Social studies
+Female,18,Right-Handed,160.2,1,30,February,6,2,6,8,0,8,8,9,Social studies
+Female,21,Right-Handed,173,30,51,November,5,3,10,2,0,12,30,15,Science
+Male,18,Right-Handed,177,60,47,May,6,7,5,0,25,30,100,2,Art
+Male,17,Right-Handed,173,60,44,August,8,8,1,3,8,24,24,8,Art
+Female,17,Right-Handed,164,5,51,April,6,5,5,10,0,6,6,0,Physical education
+Female,17,Right-Handed,165,30,50,September,6,3,8,5,1,10,10,10,Mathematics and statistics
+Female,16,Ambidextrous,160,10,38,November,4,5,44,14,2,4,50,0,History
+Female,20,Right-Handed,166,25,51,June,8,4,10,21,0,28,35,10,Physical education
+Female,16,Right-Handed,155,10,33,November,9,4,2,10,0,10,8,0,Science
+Male,17,Right-Handed,177,5,45,March,6,3,2,15,8,20,20,5,English
+Male,18,Right-Handed,173,32,43,January,7,6,3,5,12,3,12,10,Art
+Female,16,Right-Handed,155,14,43,November,3,2,20,2,15,20,24,0,Mathematics and statistics
+Male,18,Right-Handed,179,30,40,January,6,4,21,7,0,15,20,14,English
+Female,21,Right-Handed,160,20,41,February,8,4,21,7,0,15,20,14,Physical education
+Female,21,Right-Handed,152,30,53,January,8,4,7,1,2,5,5,2,Physical education
+Male,16,Right-Handed,180,12,34,January,5,4,5,0,3,10,60,2,Mathematics and statistics
+Female,16,Right-Handed,150,40,42,August,7,4,10,6,0.5,4,26,7,Mathematics and statistics
+Female,16,Right-Handed,158.9,5,50,October,7,5,30,17,0,8,10,7,Mathematics and statistics
+Female,16,Right-Handed,160,45,48,August,7,7,0,0,0,50,50,0,Music
+Female,17,Right-Handed,161,8,34,December,8,5,7,12,0,2,2,3,Other
+Female,17,Right-Handed,155,15,40,April,6,4,18,12,2,14,20,5,History
+Male,21,Right-Handed,160,30,45,March,5,4,3,0,4,0,5,0,Physical education
+Female,17,Right-Handed,162,90,42,July,6,3,4,2,1,19,70,20,Mathematics and statistics
+Female,16,Right-Handed,163,30,56,October,5,5,21,2,0,10,84,21,Science
+Male,18,Ambidextrous,174,90,7,August,4,3,2,1,4,1,1,3,Geography
+Female,16,Right-Handed,165.1,75,41,May,5,4,0,2,5,20,8,2,Science
+Male,20,Left-Handed,165,80,40,October,6,4,3,20,0,15,27,10,English
+Male,17,Right-Handed,170,50,53,December,6,4,3,20,35,15,45,10,Mathematics and statistics
+Female,17,Right-Handed,177.8,7,42,November,7,4,18,11,0,6,15,10,Mathematics and statistics
+Male,17,Right-Handed,173,50,68,September,7,3,3,0,2,7,20,0,Mathematics and statistics
+Female,17,Right-Handed,161,15,50,July,7,5,10,10,0,5,5,7,Languages
+Male,17,Right-Handed,175,30,53,May,5,5,11,11,11,11,11,8,Art
+Male,19,Left-Handed,174,20,70,January,5,4,11,11,11,11,11,8,English
+Female,22,Left-Handed,162.6,20,45,November,7,5,10,5,1,3,3,8,Languages
+Female,17,Right-Handed,162.5,10,43,February,7,4,12,10,0,7,9,0,Science
+Female,17,Right-Handed,165,50,45,April,3,3,1,0,0,5,2,0,Science
+Female,17,Right-Handed,160,13,38,November,6,4,16,5,2,18,8,2,Computers and technology
+Male,17,Right-Handed,158,15,53,August,8,3,25,0,10,0,5,0,Mathematics and statistics

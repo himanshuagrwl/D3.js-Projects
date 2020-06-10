@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSE 564 Lab 1 Himanshu Agrawal</title>
+    <link rel="stylesheet" href="Stylesheets/styles.css"/>
+    <link rel="stylesheet" href="Stylesheets/svg.css"/>
+    <link rel="stylesheet" href="Stylesheets/header.css"/>
+    <link rel="stylesheet" href="Stylesheets/cartImage.css"/>
+    <link rel="stylesheet" href="Stylesheets/dropdown.css"/>
+    <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <script src="histogram.js"></script>
+    <script src="index.js"></script>
+    <script src="bar_categorical.js"></script>
+    <script>
+        var activeFeature = [];
+        var activeAttributeName;
+        var numerical = false;
+    </script>
+</head>
+
+<body bgcolor="white">
+<header>
+    <div class="header">
+        <h1 style="margin-top:10">New York 12<sup>th</sup> Grade Students Data</h1>
+    </div>
+</header>
+
+<div class="dropdown">
+    <button class="dropbtn">Select Variables Here</button>
+    <div class="dropdown-content">
+        <a id="btnGender" class="active" href="#" onclick="fnGender()">Gender</a>
+        <a id="btnHanded" href="#" onclick="fnHanded()">Handed-ness</a>
+        <a id="btnBirthMonth" href="#" onclick="fnBirthMonth()">Birth Month</a>
+        <a id="btnFavSubject" href="#" onclick="fnFavSubject()">Favourite Subjects</a>
+        <a id="btnAgeyears" href="#" onclick="fnAgeyears()">Age (Years) </a>
+        <a id="btnHeight" href="#" onclick="fnHeight()">Height in CM</a>
+        <a id="btnTraveltoschool" href="#" onclick="fnTraveltoschool()">Travel Time School</a>
+        <a id="btnScoreMemory" href="#" onclick="fnScoreMemory()">Score in memory game</a>
+        <a id="btnSleepHour" href="#" onclick="fnSleepHour()">Sleep hours</a>
+        <a id="btnHomeOcc" href="#" onclick="fnHomeOcc()">No. of Home Occupants</a>
+        <a id="btnHomeworkHour" href="#" onclick="fnHomeworkHour()">Homework Hours</a>
+        <a id="btnOutdoor" href="#" onclick="fnOutdoor()">Outdoor Activity Hours</a>
+        <a id="btnVideoGame" href="#" onclick="fnVideoGame()">Video Game Hours</a>
+        <a id="btnComputeruse" href="#" onclick="fnComputeruse()">Computer Usage Hour</a>
+        <a id="btnWatchtv" href="#" onclick="fnWatchtv()">Watching TV Hours</a>
+    </div>
+</div>
+<div>
+    <h1 align="center" id="note"> Drag left/right on the Histogram to decrease/increase bin size</h1>
+</div>
+<div id="svgContainer" class="svgContainer">
+    <svg id="mysvg" width="1200" height="750"></svg>
+</div>
+
+<div class="cartImage">
+    <img src="Images/cart.png" width="400px">
+</div>
+<script>
+    changeBins();
+</script>
+</body>
+</html>
