@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSE 564 Lab 2 Himanshu Agrawal</title>
+    <script src="../static/main.js"></script>
+    <script src="../static/d3.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+</head>
+
+<body bgcolor="white">
+<header>
+    <div class="he">
+        <h1>CSE 564 Visualization Lab 2</h1>
+        <h3>New York 12<sup>th</sup> Grade Students Data</h3>
+    </div>
+</header>
+
+<div class="btn-group" style="left: 10px; top: 10px">
+    <div class="dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" style="background-color: darkgreen; min-width: 100px">Task 2
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu">
+          <li><a href="#" onclick="get_data('task2a')">Screeplot No Sampling</a></li>
+          <li class="divider"></li>
+          <li><a href="#" onclick="get_data('task2b')">Screeplot Random Sampling</a></li>
+          <li class="divider"></li>
+          <li><a href="#" onclick="get_data('task2c')">Screeplot Stratified Sampling</a></li>
+      </ul>
+    </div>
+</div>
+  
+<div class="btn-group" style="left: 20px; top: 10px">
+    <div class="dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" style="background-color: darkgreen; min-width: 100px">Task 3
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu">
+            <li class="dropdown-submenu">
+                <a href="#" class="drop dropdown-toggle" data-toggle="dropdown">Top 2 PCA Scatter Plot </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#" onclick="get_data('task3a1')">Original Data</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="get_data('task3a2')">Random Sampling</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="get_data('task3a3')">Stratified Sampleing</a></li>
+                </ul>
+            </li>
+            <li class="divider"></li>
+            <li class="dropdown-submenu">
+                <a href="#" class="drop dropdown-toggle" data-toggle="dropdown">MDS Euclidean Scatter Plot </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#" onclick="get_data('task3b1')">Original Data</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="get_data('task3b2')">Random Sampling</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="get_data('task3b3')">Stratified Sampling</a></li>
+                </ul>
+            </li>
+            <li class="divider"></li>
+            <li class="dropdown-submenu">
+                <a href="#" class="drop dropdown-toggle" data-toggle="dropdown">MDS Correlation Scatter Plot </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#" onclick="get_data('task3c1')">Original Data</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="get_data('task3c2')">Random Sampling</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="get_data('task3c3')">Stratified Sampling</a></li>
+                </ul>
+            </li>
+            <li class="divider"></li>
+            <li class="dropdown-submenu">
+                <a href="#" class="drop dropdown-toggle" data-toggle="dropdown">Scatterplot Matrix </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#" onclick="get_data('task3d1')">Original Data</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="get_data('task3d2')">Random Sampling</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="get_data('task3d3')">Stratified Sampling</a></li>
+                </ul>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+</body>
+</html>

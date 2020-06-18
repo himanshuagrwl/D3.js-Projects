@@ -1,0 +1,105 @@
+.bar {
+  fill: green;
+}
+.he {
+    padding: 5px;
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    font-size: 100px;
+}
+.bar:hover {
+  fill: lightblue;
+}
+
+.axis,
+.frame {
+  shape-rendering: crispEdges;
+}
+
+.axis line {
+  stroke: #ddd;
+}
+
+.axis path {
+  display: none;
+}
+
+.cell text {
+  font-weight: bold;
+  text-transform: capitalize;
+  fill: black;
+}
+
+.frame {
+  fill: none;
+  stroke: black;
+  /*stroke-width: 3px;*/
+}
+
+circle {
+  fill-opacity: .7;
+}
+
+circle.hidden {
+  fill: #ccc !important;
+}
+
+.extent {
+  fill: #000;
+  fill-opacity: .125;
+  stroke: #fff;
+}
+.axiss text {
+  font: 10px sans-serif;
+}
+
+.axiss path,
+.axiss line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axiss path {
+  display: none;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  font: 12px sans-serif;
+  background: #222;
+  color: #fff;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  opacity: 0.9;
+  visibility: hidden;
+}
+.svgContainer {
+    position: absolute;
+    left: 450px;
+    top: 200px;
+    z-index: 1;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu> a:after {
+                content: "❯";
+                float: right;
+            }
+.drop{
+  min-width: 250px;
+}
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
